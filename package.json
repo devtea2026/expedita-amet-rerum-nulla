@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/expedita-amet-rerum-nulla",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -342,5 +342,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/expedita-amet-rerum-nulla/issues"
   },
-  "packageManager": "yarn@4.1.1"
+  "packageManager": "yarn@4.2.1"
 }
